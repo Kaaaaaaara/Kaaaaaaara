@@ -8,6 +8,6 @@ For my programming projects, I usually only upload to Github once I make signifi
 - 🔭 I’m currently working on creating webpages and learning how to progam.
 - 😀 I like to crochet, code, read, and draw in my free time.
 - 💬 Ask me about something! [Ask.fm](https://ask.fm/aryadilla123)
-- ⚡ Fun fact: Im economics student but like more tech than economic itself :upside_down_face:
+- ⚡ Fun fact: Im economics student but more like tech than economic itself :upside_down_face:
 
 [![Ava's Github Stats](https://github-readme-stats.vercel.app/api?username=Kaaaaaaara)](https://github.com/anuraghazra/github-readme-stats)
