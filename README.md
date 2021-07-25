@@ -6,7 +6,7 @@ For my programming projects, I usually only upload to Github once I make signifi
 
 - 🌱 I’m currently learning HTML, CSS, Python, and C++. Javascript
 - 🔭 I’m currently working on creating webpages and learning how to progam.
-- 😀 I like to crochet, code, read, and draw in my free time.
+- 😀 I like to code, read, and design in my free time.
 - 💬 Ask me about something! [Ask.fm](https://ask.fm/aryadilla123)
 - ⚡ Fun fact: Im economics student but more like tech than economic itself :upside_down_face:
 
