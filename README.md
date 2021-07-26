@@ -5,7 +5,7 @@ I'm a economics college student who lives in the Indonesia.  I'm learning how to
 For my programming projects, I usually only upload to Github once I make significant progress. For markdown files, I make commits much more often. Feel free to create a pull request to contribute to any of my repositories.
 
 - 🌱 I’m currently learning HTML, CSS, Python, and C++. Javascript
-- 🔭 I’m currently working on creating webpages and learning how to progam.
+- 🔭 I’m currently working on creating webpages and learning how to program.
 - 😀 I like to code, read, and design in my free time.
 - 💬 Ask me about something! [Ask.fm](https://ask.fm/aryadilla123)
 - ⚡ Fun fact: Im economics student but more like tech than economic itself :upside_down_face:
